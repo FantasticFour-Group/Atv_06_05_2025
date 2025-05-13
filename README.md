@@ -23,14 +23,15 @@ Equipes que evitam discussões difíceis acabam reprimindo problemas importantes
 
 ## CÓDIGO DE CONDUTA
  
-1. Qualquer execução de tarefa deve ser comunicada ao grupo antes de executá-la, todo comunicação deve ser feita presencialmente na aula de Gestão de Pessoas ou de maneira digital através do grupo oficial do WhatsApp através de mensagens de textos, que devem ser dedicados apenas a matéria de Gestão de Pessoas.
-
-2. Comprometimento com entregas das tarefas delegadas a cada integrante, o texto deve manter o padrão formal da língua portuguesa, seguindo o tema proposto na atividade em aula, deve ser bem fundamentados com base em artigos ou pesquisa de autores da área, sempre com referências ao autores conforme formato ABNT, toda entrega deve ser aprovada por todos os integrantes conformes meios de comunicação descritos no 1 Código.
-
-3. Todos os integrantes devem ser ativos no grupo dando sua opinião e fazendo questionamento em todas as atividades realizadas, engajando nas atividades e buscando auxiliar os outros integrantes da equipe em caso de duvidas ou dificuldades em qualquer tema proposto.
-
-4. Todos os integrantes devem cumprir os prazos, em caso de não ser possível realizar a atividade na aula de Gestão de Pessoas, ou seja uma tarefa delega pela Professora para uma data posterior devem ser apresentadas pelo grupo de forma digital pelo WhatsApp com documentos em formato docx ou pdf, ou através do repositório oficial do grupo no github, com o prazo máximo de um dia anterior a próxima aula, para que seja discutido pelo grupo no formato digital e seja verificado se segue o padrão do Item 2.
-
-5. Deve ser respeitado toda opinião e questionamento dos integrantes de equipe, sendo feitos de maneira formal, não será tolerado nenhum tipo de agressão física ou verbal, também não será tolerado qualquer tipo de discriminação seja ao gênero, raça, sexualidade, credo, etnia.
-
-6. Caso algum integrante de Equipe for se ausentar de alguma aula, deve se possível avisar no prazo de duas horas antes da aula através do método digital descrito no Item 1.
+1 - Comunicação.
+ Qualquer execução de tarefa deve ser comunicada previamente ao grupo. As comunicações devem ocorrer presencialmente durante as aulas de Gestão de Pessoas ou de forma digital, exclusivamente por meio do grupo oficial no WhatsApp. As mensagens devem ser exclusivamente relacionadas à disciplina de Gestão de Pessoas e redigidas em linguagem formal.
+2 - Entrega de Tarefas.
+ Cada integrante é responsável pelo comprometimento com as tarefas que lhe forem atribuídas. Os textos entregues devem obedecer à norma culta da língua portuguesa, estar alinhados ao tema proposto em aula e ser fundamentados em artigos ou pesquisas de autores da área. É obrigatório o uso de referências conforme as normas da ABNT. Nenhuma entrega será considerada válida sem a aprovação de todos os integrantes, realizada por meio dos canais de comunicação descritos no item 1.
+3 - Participação e Colaboração.
+ Todos os integrantes devem participar ativamente das atividades, oferecendo opiniões, fazendo questionamentos e auxiliando os colegas sempre que necessário. O engajamento individual é essencial para o bom desempenho coletivo.
+4 - Prazos e Submissões.
+ O cumprimento dos prazos é obrigatório. Caso uma tarefa atribuída pela professora não seja concluída durante a aula, deverá ser entregue até, no máximo, um dia antes da próxima aula. As entregas devem ser feitas digitalmente, via grupo oficial no WhatsApp (em formato .docx ou .pdf) ou por meio do repositório oficial da equipe no GitHub. O conteúdo será revisado coletivamente para garantir que atenda aos critérios descritos no item 2.
+5 - Respeito e Ética.
+ Todas as opiniões e questionamentos devem ser respeitados e expressos de forma educada e formal. Não será tolerado qualquer tipo de agressão física ou verbal, nem manifestações de discriminação por motivo de gênero, raça, etnia, orientação sexual, religião ou qualquer outro aspecto individual.
+6 - Ausências.
+ Caso algum integrante precise se ausentar de uma aula, é esperado que, se possível, avise o grupo com pelo menos duas horas de antecedência, utilizando os meios digitais estabelecidos no item 1.
